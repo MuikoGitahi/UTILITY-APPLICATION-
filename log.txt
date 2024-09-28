@@ -1,0 +1,1 @@
+Original: My name is Micheal., Reversed: .laehciM si eman yM, Uppercase: MY NAME IS MICHEAL., Length: 19, DateTime: 2024-09-28 17:02:59.796169
